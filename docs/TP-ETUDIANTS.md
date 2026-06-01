@@ -7,7 +7,7 @@ cp .env.example .env
 docker compose up -d --build
 ```
 
-Windows PowerShell :
+Windows sPowerShell :
 
 ```powershell
 Copy-Item .env.example .env
